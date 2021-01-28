@@ -1,4 +1,4 @@
-# This project implements data structures and algorithms using python and python flask to create a web API platform to demonstrate the concepts of both worlds (Web development and data structures and algorithms.
+# This project implements data structures and algorithms using python and python flask to create a web API platform to demonstrate the concepts of both worlds (Web development and data structures and algorithms).
 
 ## Implemetation by [Utkarsh Singh](https://www.singhutkarsh.com/)
 
